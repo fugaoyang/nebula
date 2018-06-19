@@ -9,5 +9,5 @@
 
 	<import resource="classpath*:spring/spring-asyn-bean.xml" />
 	<!--减少资源依赖以及影响面，采用jar包非dubbo方式引入-->
-<!--<import resource="classpath*:spring/spring-asyn-provider.xml" />-->
+	<!--<import resource="classpath*:spring/spring-asyn-provider.xml" />-->
 </beans>
